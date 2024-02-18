@@ -1,0 +1,7 @@
+C:\Users\TF049\Desktop\Primeros Programas C#\Using\Using\bin\Debug\Using.exe.config
+C:\Users\TF049\Desktop\Primeros Programas C#\Using\Using\bin\Debug\Using.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\Using\Using\bin\Debug\Using.pdb
+C:\Users\TF049\Desktop\Primeros Programas C#\Using\Using\obj\Debug\Using.csproj.AssemblyReference.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\Using\Using\obj\Debug\Using.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\Using\Using\obj\Debug\Using.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\Using\Using\obj\Debug\Using.pdb
