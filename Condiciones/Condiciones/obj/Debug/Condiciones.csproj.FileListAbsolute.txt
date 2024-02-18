@@ -1,0 +1,7 @@
+C:\Users\TF049\Desktop\Primeros Programas C#\Condiciones\Condiciones\bin\Debug\Condiciones.exe.config
+C:\Users\TF049\Desktop\Primeros Programas C#\Condiciones\Condiciones\bin\Debug\Condiciones.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\Condiciones\Condiciones\bin\Debug\Condiciones.pdb
+C:\Users\TF049\Desktop\Primeros Programas C#\Condiciones\Condiciones\obj\Debug\Condiciones.csproj.AssemblyReference.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\Condiciones\Condiciones\obj\Debug\Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\Condiciones\Condiciones\obj\Debug\Condiciones.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\Condiciones\Condiciones\obj\Debug\Condiciones.pdb

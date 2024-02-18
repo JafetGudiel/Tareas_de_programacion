@@ -1,0 +1,7 @@
+C:\Users\TF049\Desktop\Primeros Programas C#\miPrimerPrograma\miPrimerPrograma\bin\Debug\miPrimerPrograma.exe.config
+C:\Users\TF049\Desktop\Primeros Programas C#\miPrimerPrograma\miPrimerPrograma\bin\Debug\miPrimerPrograma.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\miPrimerPrograma\miPrimerPrograma\bin\Debug\miPrimerPrograma.pdb
+C:\Users\TF049\Desktop\Primeros Programas C#\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.csproj.AssemblyReference.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.pdb

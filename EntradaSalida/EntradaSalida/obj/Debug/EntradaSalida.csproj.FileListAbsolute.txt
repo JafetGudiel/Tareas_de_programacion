@@ -1,0 +1,7 @@
+C:\Users\TF049\Desktop\Primeros Programas C#\EntradaSalida\EntradaSalida\bin\Debug\EntradaSalida.exe.config
+C:\Users\TF049\Desktop\Primeros Programas C#\EntradaSalida\EntradaSalida\bin\Debug\EntradaSalida.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\EntradaSalida\EntradaSalida\bin\Debug\EntradaSalida.pdb
+C:\Users\TF049\Desktop\Primeros Programas C#\EntradaSalida\EntradaSalida\obj\Debug\EntradaSalida.csproj.AssemblyReference.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\EntradaSalida\EntradaSalida\obj\Debug\EntradaSalida.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\EntradaSalida\EntradaSalida\obj\Debug\EntradaSalida.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\EntradaSalida\EntradaSalida\obj\Debug\EntradaSalida.pdb

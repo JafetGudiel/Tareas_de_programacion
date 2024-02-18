@@ -1,0 +1,7 @@
+C:\Users\TF049\Desktop\Primeros Programas C#\tiposDeDatos\tiposDeDatos\bin\Debug\tiposDeDatos.exe.config
+C:\Users\TF049\Desktop\Primeros Programas C#\tiposDeDatos\tiposDeDatos\bin\Debug\tiposDeDatos.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\tiposDeDatos\tiposDeDatos\bin\Debug\tiposDeDatos.pdb
+C:\Users\TF049\Desktop\Primeros Programas C#\tiposDeDatos\tiposDeDatos\obj\Debug\tiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\tiposDeDatos\tiposDeDatos\obj\Debug\tiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Desktop\Primeros Programas C#\tiposDeDatos\tiposDeDatos\obj\Debug\tiposDeDatos.exe
+C:\Users\TF049\Desktop\Primeros Programas C#\tiposDeDatos\tiposDeDatos\obj\Debug\tiposDeDatos.pdb
